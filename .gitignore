@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+
+# Saved models
+models/
+
+# Visualizations
+visualizations/
+
+# Logs
+logs/
+
+# Data
+data/
+
+.DS_Store

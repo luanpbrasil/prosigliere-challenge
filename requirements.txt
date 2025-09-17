@@ -1,0 +1,40 @@
+# Fall Detection Project Dependencies
+# Generated for production-ready environment
+
+# Core Data Processing
+pandas>=2.3.0
+numpy>=2.3.0
+openpyxl>=3.1.0
+
+# Data Visualization
+matplotlib>=3.10.0
+seaborn>=0.13.0
+plotly>=5.0.0
+
+# Machine Learning
+scikit-learn>=1.7.0
+
+# Gradient Boosting
+xgboost>=3.0.0
+
+# Deep Learning
+tensorflow>=2.20.0
+
+# Signal Processing & Scientific Computing
+scipy>=1.16.0
+
+# Utilities & Progress Bars
+tqdm>=4.64.0
+
+# Development & Type Hints
+typing-extensions>=4.0.0
+
+# Optional: For better performance
+# numba>=0.56.0  # JIT compilation for numerical functions
+# joblib>=1.2.0  # Already included with scikit-learn
+
+# Installation Notes:
+# 1. Create virtual environment: python -m venv venv
+# 2. Activate: source venv/bin/activate (Linux/Mac) or venv\Scripts\activate (Windows)
+# 3. Install: pip install -r requirements.txt
+# 4. For macOS users with XGBoost issues: brew install libomp
