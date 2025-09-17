@@ -4,13 +4,13 @@ venv/
 # Python cache
 __pycache__/
 
-# Saved models
+# Saved Models
 models/
 
 # Logs
 logs/
 
-# Data
-data/
+# Processed Data
+data/processed/
 
 .DS_Store
