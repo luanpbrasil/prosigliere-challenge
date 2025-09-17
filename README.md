@@ -11,7 +11,6 @@ The dataset contains IMU sensor data from **8 healthy young adults** (22-32 year
 - **Categories**: ADLs (192 files), Falls (168 files), Near-Falls (120 files)
 - **Total Files**: 480 recordings
 - **Sampling Rate**: 128 Hz
-- **Duration**: ~15 seconds per trial
 
 ## 🚀 Quick Start
 
